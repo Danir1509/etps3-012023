@@ -31,7 +31,8 @@ class _PrincipalState extends State<Principal> {
                 scrollDirection: Axis.horizontal,
                 itemBuilder: (context, index) {
                   return MisCirculos();
-                }),
+                }
+              ),
           ),
 
           //instagram post
